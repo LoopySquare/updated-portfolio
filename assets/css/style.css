@@ -68,18 +68,24 @@
     margin: auto;
 }
 .card{
-    border-radius: 25px;
+    border-radius: 20px;
     margin: auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
 }
+
+.border{
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
+
 #aboutMe{
     margin: auto;
 }
 div#portfolio{
-    background-color: #f8f8ff
+  background: -webkit-linear-gradient(360deg, #38aecc 10%, #347fb9 360%);
 }
 div#aboutMe{
-    background-color: #f8f8ff;
+    background: -webkit-linear-gradient(360deg, #38aecc 10%, #347fb9 360%);
 }
 div#contact{
     background-color: #f8f8ff;
@@ -88,3 +94,20 @@ div#contact{
 .row{
   padding: 50px;
 }
+
+.d1{
+  font-size: 2rem !important;
+  color: #f8f8ff !important;
+  margin-top: 0px !important;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.d2{
+  font-size: 2rem !important;
+  color: #f8f8ff !important;
+  margin-top: 0px !important;
+  padding-top: 80px;
+  padding-bottom: 10px;
+}
+
