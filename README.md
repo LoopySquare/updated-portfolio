@@ -1,6 +1,6 @@
 # Updated Portfolio
 ## Description
-### Third update on my portfolio page. Touched up some of the designs and added my creative portfolio to my web development portfolio.
+### Second update on my portfolio page. Touched up some of the designs and added my creative portfolio to my web development portfolio.
 <br><br>
 # Table of Contents
 1. [Installation](#installation)
